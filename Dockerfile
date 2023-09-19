@@ -130,7 +130,7 @@ USER root
 
 ############### DATA VOLUME #################
 
-railway volume snipe ["/var/lib/snipeit"]
+volume snipe ["/var/lib/snipeit"]
 
 ##### START SERVER
 
